@@ -1,0 +1,6 @@
+{
+  "name": "Movie Catalog",
+  "description": "Discover the best movies from Bangla, English, and Indian cinema. Watch trailers, manage your personal watchlist, and explore reviews in a cinematic dark-mode experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
